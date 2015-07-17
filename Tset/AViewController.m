@@ -1,3 +1,4 @@
+
 //
 //  AViewController.m
 //  Tset
@@ -16,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor specialRandomColor];
     // Do any additional setup after loading the view.
 }
 
