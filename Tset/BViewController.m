@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  BViewController.m
 //  Tset
 //
 //  Created by rimi on 15/7/15.
 //  Copyright (c) 2015年 Martin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "BViewController.h"
 
-@interface ViewController ()
+@interface BViewController ()
 
 @end
 
-@implementation ViewController
+@implementation BViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

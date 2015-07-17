@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  CViewController.m
 //  Tset
 //
 //  Created by rimi on 15/7/15.
 //  Copyright (c) 2015年 Martin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "CViewController.h"
 
-@interface ViewController ()
+@interface CViewController ()
 
 @end
 
-@implementation ViewController
+@implementation CViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

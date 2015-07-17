@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  DViewController.m
 //  Tset
 //
 //  Created by rimi on 15/7/15.
 //  Copyright (c) 2015年 Martin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "DViewController.h"
 
-@interface ViewController ()
+@interface DViewController ()
 
 @end
 
-@implementation ViewController
+@implementation DViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

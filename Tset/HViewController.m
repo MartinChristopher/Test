@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  HViewController.m
 //  Tset
 //
 //  Created by rimi on 15/7/15.
 //  Copyright (c) 2015年 Martin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "HViewController.h"
 
-@interface ViewController ()
+@interface HViewController ()
 
 @end
 
-@implementation ViewController
+@implementation HViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

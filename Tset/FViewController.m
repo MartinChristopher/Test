@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  FViewController.m
 //  Tset
 //
 //  Created by rimi on 15/7/15.
 //  Copyright (c) 2015年 Martin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "FViewController.h"
 
-@interface ViewController ()
+@interface FViewController ()
 
 @end
 
-@implementation ViewController
+@implementation FViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

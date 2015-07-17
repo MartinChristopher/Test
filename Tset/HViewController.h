@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HViewController.h
 //  Tset
 //
 //  Created by rimi on 15/7/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface HViewController : UIViewController
 
 @end
